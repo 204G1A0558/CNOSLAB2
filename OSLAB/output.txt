@@ -1,0 +1,8 @@
+
+ Enter number of process...
+ enter burst time for process 0..
+ enter burst time for process 1..	 PROCESS	BURST TIME	WAITING TIME	TURNAROUND TIME
+
+	p0		5		0		5
+	p1		2		5		7Average waiting time--2.500000
+ Average turn around time---6.000000
