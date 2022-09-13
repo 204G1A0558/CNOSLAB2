@@ -10,12 +10,11 @@ int main()
 {
   int bt[20],wt[20],tat[20],i,n;
   float wtavg,tatavg;
-  clrscr();
   printf("\n Enter number of process...");
   scanf("%d",&n);
   for(i=0;i<n;i++)
   {
-    printf("\n enter burst time for process %d.."i);
+    printf("\n enter burst time for process %d..",i);
     scanf("%d",&bt[i]);
   }
   wt[0]=wtavg=0;
