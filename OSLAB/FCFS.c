@@ -5,8 +5,8 @@
    Date of Execution: 06-09-2022
 */
 #include<stdio.h>
-#include<conio.h>
-main()
+
+int main()
 {
   int bt[20],wt[20],tat[20],i,n;
   float wtavg,tatavg;
@@ -31,3 +31,5 @@ main()
     printf("\n\tp%d\t\t%d\t\t%d\t\t%d",i,bt[i],wt[i],tat[i]);
   printf("Average waiting time--%f",wtavg/n);
   printf("\n Average turn around time---%f",tatavg/n);
+   return 0;
+}
