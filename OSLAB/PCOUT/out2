@@ -1,0 +1,19 @@
+<pre>1. Produce 	 2. Consume 	3. Exit
+Enter your choice: 2
+
+Buffer is Empty
+1. Produce 	 2. Consume 	3. Exit
+Enter your choice: 3
+<font color="#26A269"><b>srit@srit-HP-Pro-3090-MT</b></font>:<font color="#12488B"><b>~/204G1A0558/CNOSLAB2/OSLAB</b></font>$ ./a.out
+
+1. Produce 	 2. Consume 	3. Exit
+Enter your choice: 4
+
+1. Produce 	 2. Consume 	3. Exit
+Enter your choice: 1
+
+Enter the value: 2
+
+1. Produce 	 2. Consume 	3. Exit
+Enter your choice: 3
+</pre>
