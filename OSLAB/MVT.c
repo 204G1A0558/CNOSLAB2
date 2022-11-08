@@ -7,7 +7,7 @@
 
 #include<stdio.h>
 //#include<conio.h>
-main()
+ void main()
 
 {
 int ms,mp[10],i,
