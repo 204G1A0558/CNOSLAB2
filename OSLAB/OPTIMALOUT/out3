@@ -1,0 +1,11 @@
+<pre>Enter length of the reference string: 5
+Enter the reference string: 1 2 3 33 5  
+Enter no of frames: 3 
+1	-1	-1	
+1	2	-1	
+1	2	3	
+33	2	3	
+5	2	3	
+Number of page faults : 5
+Page fault rate = 100.000000 
+</pre>
