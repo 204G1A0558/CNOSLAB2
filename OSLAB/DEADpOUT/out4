@@ -1,0 +1,7 @@
+<pre>Enter no of jobs: 2 
+Enter name and time: A 1
+Enter name and time: B 2
+Enter the available resources:12
+ABSafe sequence is:A 1
+B 2
+</pre>

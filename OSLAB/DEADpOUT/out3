@@ -1,0 +1,13 @@
+<pre>Enter no of jobs: 5
+Enter name and time: V 1
+Enter name and time: A 12
+Enter name and time: D 7
+Enter name and time: i 7
+Enter name and time: m 4
+Enter the available resources:44
+VmiDASafe sequence is:V 1
+m 4
+i 7
+D 7
+A 12
+</pre>

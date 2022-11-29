@@ -1,0 +1,11 @@
+<pre>Enter no of jobs: 4
+Enter name and time: A 1
+Enter name and time: B 5
+Enter name and time: c 2
+Enter name and time: d 3
+Enter the available resources:20
+AcdBSafe sequence is:A 1
+c 2
+d 3
+B 5
+</pre>

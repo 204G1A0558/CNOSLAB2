@@ -1,0 +1,9 @@
+<pre>Enter no of jobs: 3 
+Enter name and time: F 6
+Enter name and time: M 5
+Enter name and time: V 4
+Enter the available resources:15
+VMFSafe sequence is:V 4
+M 5
+F 6
+</pre>
